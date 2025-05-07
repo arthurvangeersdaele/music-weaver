@@ -34,4 +34,4 @@ Pygame
 > Rendering using pixel is awful
 >
 > 
-## 2. UX solution 
+## 3. ? 
